@@ -816,6 +816,9 @@
     #review_part .reviewslider .slide {
     background-color: transparent;
 }
+    #review_part .reviewslider .slick-center {
+    background-color: rgba(185, 185, 184, 0.39) !IMPORTANT;
+}
     /* ============================================================== */
     #login_part {
         padding: 20px 10px;
